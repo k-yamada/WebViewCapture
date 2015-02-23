@@ -5,7 +5,7 @@ Create capture image of UIWebView and save it to PhotoAlbum.
 
 * WebViewCapture
 
-<img src="https://raw.githubusercontent.com/k-yamada/WebViewCapture/master/screenshots/app.jpg" height="300px"/>
+<img src="https://raw.githubusercontent.com/k-yamada/WebViewCapture/master/screenshots/app.png" height="300px"/>
 
 * Capture
 
